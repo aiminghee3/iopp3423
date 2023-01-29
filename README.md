@@ -4,7 +4,7 @@
 
 🏫 I’m currently studying at Sejong Univ.<br/>
 🧑‍💻 I'm currently belong in a club EN#
-
+📖 I’m currently learning Spring and JPA.
 <!--
 **iopp3423/iopp3423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
