@@ -1,4 +1,9 @@
 ### Hi there 👋
+<h3>Hi i'm Jun, 📚Student at Sejong University.</h3>
+<hr/>
+
+🏫 I’m currently studying at Sejong University.<br/>
+🧑‍💻 I'm currently belong in a club EN#
 
 <!--
 **iopp3423/iopp3423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
