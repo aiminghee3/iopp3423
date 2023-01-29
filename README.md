@@ -1,7 +1,5 @@
-### Hi there 👋
 <h3>Hi i'm Jun, 📚Student at Sejong Univ.</h3>
 <hr/>
-
 🏫 I’m currently studying at Sejong Univ.<br/>
 🧑‍💻 I'm currently belong in a club EN#<br/>
 📖 I’m currently learning Spring and JPA.
