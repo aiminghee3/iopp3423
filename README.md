@@ -1,8 +1,8 @@
 ### Hi there 👋
-<h3>Hi i'm Jun, 📚Student at Sejong University.</h3>
+<h3>Hi i'm Jun, 📚Student at Sejong Univ.</h3>
 <hr/>
 
-🏫 I’m currently studying at Sejong University.<br/>
+🏫 I’m currently studying at Sejong Univ.<br/>
 🧑‍💻 I'm currently belong in a club EN#
 
 <!--
